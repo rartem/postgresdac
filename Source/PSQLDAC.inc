@@ -27,7 +27,7 @@
 //---------------------------
 // Delphi/Builder versions
 //---------------------------
-//DELPHI 28 (RX11 Athens}
+//DELPHI 28 (RX12 Athens}
 {$IFDEF VER360}
   {$DEFINE FMX_AVAILABLE}
   {$DEFINE DELPHI_29}
